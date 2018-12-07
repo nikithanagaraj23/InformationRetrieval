@@ -1,3 +1,1 @@
-avint algorithm 77 cacm june 1962 whittier v e ca620623
-jb march 17 1978 9 14 pm 562 5 562
-562 5 562 562 5 562 
+avint algorithm cacm june whittier v e ca jb march pm

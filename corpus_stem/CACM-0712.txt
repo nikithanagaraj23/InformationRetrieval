@@ -1,3 +1,1 @@
-hermit interpol algorithm 211 cacm octob 1963 schubert g r
-ca631013 jb march 13 1978 5 51 pm 712 5
-712 712 5 712 712 5 712 
+hermit interpol algorithm cacm octob schubert g r ca jb march pm

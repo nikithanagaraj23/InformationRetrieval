@@ -1,3 +1,1 @@
-critic path schedul algorithm 40 cacm septemb 1961 alexand n
-p ca610905 jb march 16 1978 9 44 pm 289
-5 289 289 5 289 289 5 289 
+critic path schedul algorithm cacm septemb alexand n p ca jb march pm
