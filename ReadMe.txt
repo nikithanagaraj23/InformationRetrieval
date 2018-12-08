@@ -2,7 +2,7 @@ SETUP and Program Execution:
 * Open the main folder on any of the ides that support python like pycharm.This folder contains all the programs for Phase1,Phase2 and Phase3.
 * The program uses python 3.
 * To run the code either run the code using any ide which supports python like pycharm, or run on terminal using
-python file.py
+python file.py (All except Phase 1 Task1 - Lucene)
 
 Content:
 This folder contains the below mentioned files and folders:
@@ -19,7 +19,31 @@ snippets -  each of the files named based on the Query id have been created. The
 which best describe the document for that query. The query word appearing in this file have been made bold.
 * reusable_data/ - this folder contains the inverted index and the inverted index with the count of documents. It also contains the queryid to
 query mapping which is used in phase2.
-*
+* task1/task1.py - This file contains the implementation of corpus creation, indexing and the retrieval models :
+BM25, tf-idf, and JM Smoothed Query Likelihood Model . The Outputs for these runs are present in the folder baseline-runs:
+    baseline-runs/task1-bm25 - The top 100 ranked documents for BM25 retrieval model.
+    baseline-runs/task1-JMQL - The top 100 ranked documents for JM Smoothed Query Likelihood Model retrieval model
+    baseline-runs/task1-tfidf - The top 100 ranked documents for  tf-idf retrieval model
+
+* task1/lucene.java - this file contains the implementation of the task1 of phase 1 for retrieval using Lucene. For this we just need
+ to open the java file in any of the ide and run the file. This will ask you for the location where the index need to be created
+ and the location where the raw corpus is present. This will generate the lucene evaluations for the queries. The Output of the program is
+ present in baseline-runs/task1-lucene_evaluations
+* task2.py - this file contains the implementation of task2 of phase1. We have applied Psuedo Relevance query encrichment on
+BM25 retrieval model. The output of this program is stored in task2/
+* task3a.py - this file contains the implementation of task3a of phase1. The output of these runs are places in the folder baseline-runs:
+    baseline-runs/task1-bm25-stopping - The top 100 ranked documents for BM25 retrieval model after removing stop words.
+    baseline-runs/task1-JMQL-stopping - The top 100 ranked documents for JM Smoothed Query Likelihood Model retrieval model after removing stop words.
+    baseline-runs/task1-tfidf-stopping - The top 100 ranked documents for  tf-idf retrieval model after removing stop words.
+* task3b.py - this file contains the implementation of task3b of phase1. The output of these runs are places in the folder baseline-runs:
+    baseline-runs/task1-bm25-stemming - The top 100 ranked documents for BM25 retrieval model using corpus_stem and stem query
+    baseline-runs/task1-JMQL-stemming - The top 100 ranked documents for JM Smoothed Query Likelihood Model retrieval modelus using
+    corpus_stem and stem query.
+    baseline-runs/task1-tfidf-stemming - The top 100 ranked documents for  tf-idf retrieval model using corpus_stem and stem query.
+* phase2.py - this file is the implementation of Phase2. The snippets have been generated and placed into the folder
+phase2-output/snippets/
+
+
 
 
 
