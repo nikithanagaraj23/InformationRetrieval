@@ -266,7 +266,7 @@ for filename in glob.glob("corpus_stem/*.txt"):
 unigram_invertedlist_count = getInvertedListCount(inverted_unigram_dict)
 number_of_docs = len(glob.glob('corpus_stem/*.txt'))
 
-all_queries = query_preprocessor()[1:]
+all_queries = query_preprocessor()
 
 for i in range(len(all_queries)):
     print(i + 1)
