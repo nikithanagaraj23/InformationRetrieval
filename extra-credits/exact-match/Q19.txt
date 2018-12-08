@@ -1,0 +1,8 @@
+19	Q0	CACM-2973	1	3.634764611840019	ccisneu_wordunigram_ExactMatch
+19	Q0	CACM-3075	2	3.4842120735583686	ccisneu_wordunigram_ExactMatch
+19	Q0	CACM-1468	3	3.3980279935336313	ccisneu_wordunigram_ExactMatch
+19	Q0	CACM-2557	4	3.293064874769049	ccisneu_wordunigram_ExactMatch
+19	Q0	CACM-2570	5	3.1845467629828352	ccisneu_wordunigram_ExactMatch
+19	Q0	CACM-2433	6	3.1352823827361767	ccisneu_wordunigram_ExactMatch
+19	Q0	CACM-2838	7	3.119214942291519	ccisneu_wordunigram_ExactMatch
+19	Q0	CACM-2289	8	2.930833256076284	ccisneu_wordunigram_ExactMatch

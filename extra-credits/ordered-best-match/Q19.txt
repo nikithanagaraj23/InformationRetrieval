@@ -1,0 +1,10 @@
+19	Q0	CACM-2973	1	9.422610043943473	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-3075	2	8.432695834171174	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-2266	3	7.7588341722425165	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-3156	4	7.500956612857552	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-2557	5	7.33588910371707	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-0950	6	7.2608457677320395	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-1468	7	6.8266203459810635	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-2838	8	6.2483093424107174	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-2289	9	6.036455624910404	ccisneu_wordunigram_OrderedBestMatch
+19	Q0	CACM-2433	10	5.743222005680674	ccisneu_wordunigram_OrderedBestMatch

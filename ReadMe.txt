@@ -24,7 +24,6 @@ BM25, tf-idf, and JM Smoothed Query Likelihood Model . The Outputs for these run
     baseline-runs/task1-bm25 - The top 100 ranked documents for BM25 retrieval model.
     baseline-runs/task1-JMQL - The top 100 ranked documents for JM Smoothed Query Likelihood Model retrieval model
     baseline-runs/task1-tfidf - The top 100 ranked documents for  tf-idf retrieval model
-
 * task1/lucene.java - this file contains the implementation of the task1 of phase 1 for retrieval using Lucene. For this we just need
  to open the java file in any of the ide and run the file. This will ask you for the location where the index need to be created
  and the location where the raw corpus is present. This will generate the lucene evaluations for the queries. The Output of the program is
@@ -42,9 +41,8 @@ BM25 retrieval model. The output of this program is stored in task2/
     baseline-runs/task1-tfidf-stemming - The top 100 ranked documents for  tf-idf retrieval model using corpus_stem and stem query.
 * phase2.py - this file is the implementation of Phase2. The snippets have been generated and placed into the folder
 phase2-output/snippets/
-
-
-
-
-
-
+* extra_credit.py - this program implements the extra credit section.To run the file you can either use an ide or the command line. This will ask
+you to select one of the three retrieval mechanisms. On selecting the number the respective function will be executed and the
+query with results will be displayed. We have run these three functions for the already existing queries and the outputs have been placed in
+extra-credits/ folder.
+* extra-credits/ -  holds the results of extra-credits.py

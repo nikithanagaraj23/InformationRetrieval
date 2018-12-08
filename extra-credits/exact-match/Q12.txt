@@ -1,0 +1,1 @@
+12	Q0	CACM-3127	1	8.162733379340352	ccisneu_wordunigram_ExactMatch

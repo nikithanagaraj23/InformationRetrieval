@@ -1,0 +1,1 @@
+11	Q0	CACM-2699	1	17.498470699961338	ccisneu_wordunigram_ExactMatch

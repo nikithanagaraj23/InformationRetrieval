@@ -1,0 +1,1 @@
+24	Q0	CACM-1410	1	6.718331832176652	ccisneu_wordunigram_OrderedBestMatch
